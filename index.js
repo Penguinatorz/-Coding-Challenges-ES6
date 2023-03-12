@@ -13,3 +13,4 @@ function changeText(){
 function timerText(){
     textH.innerHTML = oText;
 }
+
